@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use test_zenodo, please cite it as below."
+title: "test_zenodo"
+type: software
+version: 0.0.2
+date-released: 2026-10-22
+license: MIT
+repository-code: "https://github.com/andretrovello/test_zenodo"
+authors:
+  - family-names: Trovello
+    given-names: André Almeida
+    affiliation: "Instituto de Astronomia, Geofísica e Ciências Atmosféricas, Universidade de São Paulo"
+    orcid: "https://orcid.org/0009-0007-2118-3749"   
